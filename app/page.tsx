@@ -55,14 +55,14 @@ export default function Home() {
               </motion.span>
             </h1>
             <Balancer className="text-sm md:text-lg font-medium text-slate-500 mt-4 md:mt-6 max-w-[40em]">
-              I'm a founder, software engineer, product person, and{" "}
+              I&apos;m a founder, software engineer, product person, and{" "}
               {
                 <SimpleLink href={"https://www.instagram.com/buzzlifegames/"}>
                   content creator
                 </SimpleLink>
               }
-              . I try my best to deliver experiences that make people's lives
-              easier. Recently, that's{" "}
+              . I try my best to deliver experiences that make people&apos;s
+              lives easier. Recently, that&apos;s{" "}
               <SimpleLink href={"https://www.perytonai.com"}>
                 Peryton AI
               </SimpleLink>
